@@ -1,4 +1,4 @@
-# ⏳ Advanced Countdown Timer - v6.0
+# ⏳ Advanced Countdown Timer 
 
 A high-performance, feature-rich countdown timer application built with **React** and **Vite**. This project demonstrates advanced React concepts like custom hooks logic, persistent storage, and real-time API integration.
 
